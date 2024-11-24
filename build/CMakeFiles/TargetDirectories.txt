@@ -1,0 +1,3 @@
+C:/msys64/home/mvill/Sudoku2/build/CMakeFiles/SudokuSolver.dir
+C:/msys64/home/mvill/Sudoku2/build/CMakeFiles/edit_cache.dir
+C:/msys64/home/mvill/Sudoku2/build/CMakeFiles/rebuild_cache.dir
